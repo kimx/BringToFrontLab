@@ -1,0 +1,11 @@
+D:\BringToFrontLab\BringToFrontLab\bin\Debug\BringToFrontLab.exe.config
+D:\BringToFrontLab\BringToFrontLab\bin\Debug\BringToFrontLab.exe
+D:\BringToFrontLab\BringToFrontLab\bin\Debug\BringToFrontLab.pdb
+D:\BringToFrontLab\BringToFrontLab\obj\Debug\BringToFrontLab.Form1.resources
+D:\BringToFrontLab\BringToFrontLab\obj\Debug\BringToFrontLab.Properties.Resources.resources
+D:\BringToFrontLab\BringToFrontLab\obj\Debug\BringToFrontLab.csproj.GenerateResource.Cache
+D:\BringToFrontLab\BringToFrontLab\obj\Debug\BringToFrontLab.exe
+D:\BringToFrontLab\BringToFrontLab\obj\Debug\BringToFrontLab.pdb
+E:\GitHub\BringToFrontLab\BringToFrontLab\bin\Debug\BringToFrontLab.exe.config
+E:\GitHub\BringToFrontLab\BringToFrontLab\obj\Debug\BringToFrontLab.exe
+E:\GitHub\BringToFrontLab\BringToFrontLab\obj\Debug\BringToFrontLab.pdb
